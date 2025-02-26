@@ -2,14 +2,13 @@
 ![LOGO](https://github.com/Vinissil/FRONT-END-CP-MARKTPLACE-APPLE/blob/main/img/Logotipo%20apple%20acessorios.png)
 ## [Marketplace Apple - Hosted on GitHub Pages](https://vinissil.github.io/FRONT-END-CP-MARKTPLACE-APPLE/)
 
-![home]()
-![cart]()
-![product]()
+![home](https://github.com/Vinissil/MARKTPLACE/blob/main/img/home.png)
+![home](https://github.com/Vinissil/MARKTPLACE/blob/main/img/home2.png)
+![cart](https://github.com/Vinissil/MARKTPLACE/blob/main/img/produtos.png)
+![product](https://github.com/Vinissil/MARKTPLACE/blob/main/img/cart.png)
 
 📜 License  
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-![Project Banner]()
 
 ## 📜 Project Overview
 
